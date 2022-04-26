@@ -10,3 +10,7 @@ View BOM Here
 https://github.com/AmesisProject/Molex_02x12_To_Screw_NO2C/blob/main/Kicad/v0.1/bom/ibom.html
 
 TerminalBlock_Phoenix_PT-1,5-12-3.5-H_1x12_P3.50mm_Horizontal
+
+![alt text](https://github.com/AmesisProject/Molex_02x12_To_Screw_NO2C/blob/main/Photo/SharedScreenshot.jpg) 
+![alt text](https://github.com/AmesisProject/Molex_02x12_To_Screw_NO2C/blob/main/Photo/SharedScreenshot%20.jpg)
+![alt text](https://github.com/AmesisProject/Molex_02x12_To_Screw_NO2C/blob/main/Photo/SharedScreensho%20%20t.jpg)

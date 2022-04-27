@@ -6,7 +6,7 @@ Molex to Screw Terminal
 For SpeedyBoard https://github.com/turboedge/SpeedyBoards
 
 View BOM Here 
-https://github.com/AmesisProject/Molex_02x12_To_Screw_NO2C/blob/main/Kicad/v0.1/bom/ibom.html
+https://rawgit.com/AmesisProject/Molex_02x12_To_Screw_NO2C/blob/main/Kicad/v0.1/bom/ibom.html
 
 
 
